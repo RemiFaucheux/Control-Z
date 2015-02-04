@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Ram.cs">
+    <Files>
+      <File FileName="Assets/Script/Vie.cs" Line="29" Column="49" />
+      <File FileName="Assets/Script/VieSupBio.cs" Line="23" Column="16" />
+      <File FileName="Assets/Script/EpitaDeplacement.cs" Line="29" Column="1" />
+      <File FileName="Assets/Script/EpitaAttaque.cs" Line="46" Column="38" />
+      <File FileName="Assets/Script/VieEpita.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/DeplacementPersonnage.cs" Line="4" Column="35" />
+      <File FileName="Assets/Script/InstRam.cs" Line="7" Column="2" />
+      <File FileName="Assets/Script/Ram.cs" Line="20" Column="5" />
+      <File FileName="Assets/Script/Score.cs" Line="8" Column="2" />
+      <File FileName="Assets/Script/SupBioDeplacement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/EnnemiManager.cs" Line="3" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
